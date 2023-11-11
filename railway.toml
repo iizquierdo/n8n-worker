@@ -1,0 +1,3 @@
+[deploy]
+startCommand = "n8n worker"
+
